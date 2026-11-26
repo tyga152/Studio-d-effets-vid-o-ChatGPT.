@@ -1,0 +1,19 @@
+{
+  "project": "Exemple vertical",
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "format": "mp4"
+  },
+  "clips": [
+    {
+      "id": "clip-01",
+      "source": "media/plan_01.mp4",
+      "start": 0.0,
+      "duration": 4.0,
+      "effect": "slow-push",
+      "params": {}
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# Catalogue des 51 effets
+
+Les identifiants ci-dessous sont les noms canoniques relevés dans les décorateurs `@effect` de `scripts/fx.py` du dépôt source. Cette liste constitue l’index des effets ; les paramètres et comportements détaillés doivent être confirmés dans le code de chaque effet.
+
+- `noise`
+- `lineup`
+- `locked-on`
+- `orbit`
+- `lean-in`
+- `backdrop-word`
+- `spotlight`
+- `the-bill`
+- `moody`
+- `swipe`
+- `todo`
+- `comment-box`
+- `tap`
+- `pause-point`
+- `uninstall`
+- `reel-frame`
+- `shortcut-rain`
+- `reject-stamp`
+- `countdown-flip`
+- `rabbit-hole`
+- `cover-star`
+- `scribble`
+- `glass-widgets`
+- `red-collage`
+- `split-headline`
+- `pastel-word`
+- `check-pills`
+- `timeline`
+- `headline-box`
+- `profile-wall`
+- `tier-list`
+- `broll-split`
+- `phone-fan`
+- `dot-reveal`
+- `headline-wall`
+- `checklist`
+- `liquid-glass-graph`
+- `carousel-spin`
+- `match-cut`
+- `apple-toggles`
+- `led-sign`
+- `slow-push`
+- `over-the-shoulder-zoom`
+- `messages`
+- `place-in-grid`
+- `tape-label`
+- `select-resize`
+- `wave-trim`
+- `huge-strike`
+- `crayon-write`
+- `fan-build`
